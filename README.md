@@ -6,4 +6,8 @@ O Brasil é responsável pela “Amazônia Azul”, uma área territorial marít
 
 Contudo, pela extensa poluição e mudanças climáticas, os recifes estão morrendo e, com eles, muito da vida marinha e terrrestre também.
 
+Marinar é conservar algo em baixo de água salgada.
+Então, surgiu a MarIAnada,um aplicativo que melhora monitoramento da biodiversidade dos litorais brasileiros e ainda por cima aquece a economia local
+
+
 ![3](https://github.com/anacartola/MarIAnada/assets/136506553/4d3b943f-c806-4f1c-8808-cc441edfe48b)
